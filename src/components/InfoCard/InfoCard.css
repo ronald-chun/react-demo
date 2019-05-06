@@ -1,0 +1,20 @@
+.infoCard {
+	border: 1px solid grey;
+	margin-top: 10px;
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.title {
+}
+
+.queueNum {
+    font-size : 18px;
+}
+
+.modifiedAt {
+    font-size : 12px;
+    color     : #797979;
+}
